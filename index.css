@@ -1,0 +1,47 @@
+body{
+  background-color: antiquewhite ;
+ 
+
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: top center ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.container{
+  margin:auto;
+  width:800px;
+  vertical-align: center;
+  margin:0 auto;
+  background-color: #56a5eb ;
+  border: none ;
+  border-radius : 10px ;
+  padding: 20px ;
+  height: 260px ;
+  font-size: 15pt;
+}
+.ques{
+  font-size : 18pt;
+  font-weight: bold ;
+}
+.nxtBtn{
+  position: relative ;
+  right : 10px ;
+  float: right;
+  border:none ;
+  font-size: 18pt ;
+  background-color: darkblue ;
+  color: #ffffff ;
+  width: 80px ;
+  height: 35px ;
+}
+body .input{
+  
+}
+.correct{
+  background-color: darkolivegreen;
+}
+
+.incorrect{
+  background-color: red;
+}
